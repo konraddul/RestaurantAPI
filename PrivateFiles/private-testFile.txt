@@ -1,0 +1,11 @@
+{
+  "name": "Restauracja Unicus",
+  "description": "restauracja hotelowa",
+  "category": "Hotel",
+  "hasDelivery": false,
+  "contactEmail": "restauracja@hotelunicus.pl",
+  "contactNumber": "",
+  "city": "Kraków",
+  "street": "Św. Marka 20",
+  "postalCode": "31-020"
+}
